@@ -1,0 +1,5 @@
+services:
+  milkywave-si:
+    build: .
+    image: credkellar/milkywave-si:latest
+    command: ["python3", "main.py", "demo"]

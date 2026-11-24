@@ -1,0 +1,4 @@
+# MilkyWave.SI main.py uses only the Python 3.12 standard library - zero dependencies.
+# Pillow is only needed to regenerate the cover pic locally:
+# Pillow>=10
+pytest>=8
