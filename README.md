@@ -1,4 +1,4 @@
-![MilkyWave.SI cover](assets/cover.png)
+![MilkyWave.SI cover](cover.png)
 
 # MilkyWave.SI 🌌
 
